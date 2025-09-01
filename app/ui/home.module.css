@@ -1,0 +1,10 @@
+//acá podemos definir modules
+/*
+.shape {
+  border-radius: 8px;
+  padding: 16px;
+  background-color: var(--background);
+}
+Despues dentro de page.tsx podemos hacer algo asi
+<div className={styles.shape}>Contenido</div>
+*/
